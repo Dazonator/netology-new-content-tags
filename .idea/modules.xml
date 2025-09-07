@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/content-tags.iml" filepath="$PROJECT_DIR$/.idea/content-tags.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../netology-new-content-tags/.idea/content-tags.iml" filepath="$PROJECT_DIR$/../netology-new-content-tags/.idea/content-tags.iml" />
     </modules>
   </component>
 </project>
